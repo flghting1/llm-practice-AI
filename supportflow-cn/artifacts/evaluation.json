@@ -1,0 +1,194 @@
+{
+  "generated_at": "2026-11-10T09:21:31.109697+00:00",
+  "mode": "offline",
+  "python": "3.12.6",
+  "dataset": "12 synthetic development scenarios; fresh store per case",
+  "total": 12,
+  "passed": 12,
+  "external_model_verified": false,
+  "results": [
+    {
+      "id": "S01",
+      "name": "物流查询",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "track_shipment"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S02",
+      "name": "小额退款",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "check_refund_eligibility",
+        "request_refund"
+      ],
+      "status": "answered",
+      "refunds": 1
+    },
+    {
+      "id": "S03",
+      "name": "大额待审批",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "check_refund_eligibility",
+        "request_refund"
+      ],
+      "status": "awaiting_approval",
+      "refunds": 0
+    },
+    {
+      "id": "S04",
+      "name": "超期拦截",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "check_refund_eligibility"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S05",
+      "name": "跨客户订单",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "check_refund_eligibility"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S06",
+      "name": "取消未发货",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "cancel_order"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S07",
+      "name": "拒绝取消已发货",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "cancel_order"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S08",
+      "name": "政策检索",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "search_policies"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S09",
+      "name": "人工交接",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "escalate_to_human"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S10",
+      "name": "缺少订单号",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "list_my_orders"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S11",
+      "name": "超额退款",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "check_refund_eligibility",
+        "request_refund"
+      ],
+      "status": "answered",
+      "refunds": 0
+    },
+    {
+      "id": "S12",
+      "name": "订单明细",
+      "checks": {
+        "tool": true,
+        "status": true,
+        "refund_count": true
+      },
+      "passed": true,
+      "tools": [
+        "get_order"
+      ],
+      "status": "answered",
+      "refunds": 0
+    }
+  ]
+}

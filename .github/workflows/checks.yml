@@ -1,0 +1,41 @@
+name: Business AI project checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  offline-checks:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        project: [mailflow-cn, supportflow-cn]
+        python: ['3.11', '3.12']
+    defaults:
+      run:
+        working-directory: ${{ matrix.project }}
+    env:
+      PYTHONPATH: src
+      LANGSMITH_TRACING: 'false'
+      MAIL_MODEL_PROVIDER: offline
+      SUPPORT_MODEL_PROVIDER: offline
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+          cache-dependency-path: '**/requirements-demo.txt'
+      - run: pip install -r requirements-demo.txt
+      - name: Run tests
+        shell: bash
+        run: |
+          if [ "${{ matrix.project }}" = "mailflow-cn" ]; then
+            python -m pytest portfolio_tests -q --junitxml=artifacts/pytest.xml
+          else
+            python -m pytest tests -q --junitxml=artifacts/pytest.xml
+          fi
+      - run: python scripts/evaluate.py --provider offline
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ${{ matrix.project }}-${{ matrix.python }}
+          path: ${{ matrix.project }}/artifacts/

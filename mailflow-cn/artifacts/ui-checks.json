@@ -1,0 +1,15 @@
+{
+  "project": "mailflow-cn",
+  "checks": [
+    "six scenarios loaded",
+    "manual draft editing and approval",
+    "approved draft export link",
+    "review audit",
+    "duplicate examples deduplicated"
+  ],
+  "passed": true,
+  "generated_at": "2026-11-10T09:23:36.731590+00:00",
+  "browser": "headless Microsoft Edge, fresh profile",
+  "viewport": "1440x1080 and 390x844",
+  "page_errors": []
+}

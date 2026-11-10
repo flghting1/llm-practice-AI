@@ -1,0 +1,312 @@
+{
+  "generated_at": "2026-11-10T09:21:27.280821+00:00",
+  "mode": "offline",
+  "python": "3.12.6",
+  "dataset": "30 manually-labelled synthetic development cases; not a holdout benchmark",
+  "total": 30,
+  "route_matches": 28,
+  "route_match_rate": 0.9333333333333333,
+  "external_model_verified": false,
+  "results": [
+    {
+      "id": "M01",
+      "name": "询价",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 4.83,
+      "error": null
+    },
+    {
+      "id": "M02",
+      "name": "库存",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.06,
+      "error": null
+    },
+    {
+      "id": "M03",
+      "name": "产品资料",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.04,
+      "error": null
+    },
+    {
+      "id": "M04",
+      "name": "批量订购",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 2.2,
+      "error": null
+    },
+    {
+      "id": "M05",
+      "name": "合作需求",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.04,
+      "error": null
+    },
+    {
+      "id": "M06",
+      "name": "退款咨询",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.11,
+      "error": null
+    },
+    {
+      "id": "M07",
+      "name": "物流催问",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 0.97,
+      "error": null
+    },
+    {
+      "id": "M08",
+      "name": "破损投诉",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 0.95,
+      "error": null
+    },
+    {
+      "id": "M09",
+      "name": "退货材料",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.0,
+      "error": null
+    },
+    {
+      "id": "M10",
+      "name": "会议通知",
+      "expected": "notify",
+      "actual": "notify",
+      "matched": true,
+      "status": "notified",
+      "elapsed_ms": 1.0,
+      "error": null
+    },
+    {
+      "id": "M11",
+      "name": "仓库公告",
+      "expected": "notify",
+      "actual": "notify",
+      "matched": true,
+      "status": "notified",
+      "elapsed_ms": 1.01,
+      "error": null
+    },
+    {
+      "id": "M12",
+      "name": "周报",
+      "expected": "notify",
+      "actual": "notify",
+      "matched": true,
+      "status": "notified",
+      "elapsed_ms": 0.97,
+      "error": null
+    },
+    {
+      "id": "M13",
+      "name": "抄送",
+      "expected": "notify",
+      "actual": "notify",
+      "matched": true,
+      "status": "notified",
+      "elapsed_ms": 0.92,
+      "error": null
+    },
+    {
+      "id": "M14",
+      "name": "会议纪要",
+      "expected": "notify",
+      "actual": "notify",
+      "matched": true,
+      "status": "notified",
+      "elapsed_ms": 0.95,
+      "error": null
+    },
+    {
+      "id": "M15",
+      "name": "广告",
+      "expected": "ignore",
+      "actual": "ignore",
+      "matched": true,
+      "status": "ignored",
+      "elapsed_ms": 0.99,
+      "error": null
+    },
+    {
+      "id": "M16",
+      "name": "促销",
+      "expected": "ignore",
+      "actual": "ignore",
+      "matched": true,
+      "status": "ignored",
+      "elapsed_ms": 0.97,
+      "error": null
+    },
+    {
+      "id": "M17",
+      "name": "中奖",
+      "expected": "ignore",
+      "actual": "ignore",
+      "matched": true,
+      "status": "ignored",
+      "elapsed_ms": 0.95,
+      "error": null
+    },
+    {
+      "id": "M18",
+      "name": "推广",
+      "expected": "ignore",
+      "actual": "ignore",
+      "matched": true,
+      "status": "ignored",
+      "elapsed_ms": 0.95,
+      "error": null
+    },
+    {
+      "id": "M19",
+      "name": "账号变更",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 0.96,
+      "error": null
+    },
+    {
+      "id": "M20",
+      "name": "验证码",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 1.02,
+      "error": null
+    },
+    {
+      "id": "M21",
+      "name": "绕过审核",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 0.99,
+      "error": null
+    },
+    {
+      "id": "M22",
+      "name": "英文注入",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 1.18,
+      "error": null
+    },
+    {
+      "id": "M23",
+      "name": "密码",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 1.11,
+      "error": null
+    },
+    {
+      "id": "M24",
+      "name": "含糊请求",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 0.96,
+      "error": null
+    },
+    {
+      "id": "M25",
+      "name": "空泛问候",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 0.94,
+      "error": null
+    },
+    {
+      "id": "M26",
+      "name": "附件缺失",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 0.97,
+      "error": null
+    },
+    {
+      "id": "M27",
+      "name": "营销中夹带指令",
+      "expected": "review",
+      "actual": "review",
+      "matched": true,
+      "status": "needs_attention",
+      "elapsed_ms": 1.04,
+      "error": null
+    },
+    {
+      "id": "M28",
+      "name": "报价未确认",
+      "expected": "respond",
+      "actual": "respond",
+      "matched": true,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.14,
+      "error": null
+    },
+    {
+      "id": "M29",
+      "name": "库存通知歧义",
+      "expected": "notify",
+      "actual": "respond",
+      "matched": false,
+      "status": "awaiting_review",
+      "elapsed_ms": 1.02,
+      "error": null
+    },
+    {
+      "id": "M30",
+      "name": "订单日报歧义",
+      "expected": "notify",
+      "actual": "respond",
+      "matched": false,
+      "status": "awaiting_review",
+      "elapsed_ms": 0.93,
+      "error": null
+    }
+  ]
+}

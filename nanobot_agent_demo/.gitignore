@@ -1,4 +1,0 @@
-ecommerce_multi_agent/data/*.sqlite3
-__pycache__/
-ecommerce_multi_agent/__pycache__/
-tests/__pycache__/

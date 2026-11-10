@@ -1,0 +1,800 @@
+[
+  {
+    "path": ".github/workflows/checks.yml",
+    "bytes": 1336,
+    "sha256": "a23017ce57c5d6f77b3d75786ac934adc61ff61eeb0054432f1ff885c9db29d1",
+    "git_blob_sha": "37b6f3cdaecaaab64ed1312d354dab4899c396a5"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 169,
+    "sha256": "bdd17c2542bcced50e17e12f8418b9160987ad65ec2569166213fec98e8d5a05",
+    "git_blob_sha": "19b719b180844e3198700af7b9d1ca09468d85bc"
+  },
+  {
+    "path": "artifacts/validation.json",
+    "bytes": 627,
+    "sha256": "4fe1f33554ffcae77340b2ba7998e1ce3ba9150f146e4999cd87d1d7edb13fab",
+    "git_blob_sha": "4fe79436f8b5b880501130597f7d553fffcc2d5e"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1218,
+    "sha256": "f41a4f0ff70212243e6a58dbcc6aa73a3cb4978bf9f9569673809f4328ee4948",
+    "git_blob_sha": "29194e67a82f4e3114136ad6de4c67c38c44abdd"
+  },
+  {
+    "path": "mailflow-cn/.dockerignore",
+    "bytes": 52,
+    "sha256": "bd56abd1280bacde3fe9b012cc02f4e18c8815c627acfd793bc61cfa89a49409",
+    "git_blob_sha": "ad8949c985e954746ee117605af397e8f054681d"
+  },
+  {
+    "path": "mailflow-cn/.env.example",
+    "bytes": 473,
+    "sha256": "52a583a8c74582d27531756101ccd2d70e4b69388531877d056e48ae49ed5ecd",
+    "git_blob_sha": "22be7a0ef5b4c1a9f40bde4707b172ce2d7da2cb"
+  },
+  {
+    "path": "mailflow-cn/.gitignore",
+    "bytes": 836,
+    "sha256": "6797ac2d03d8ede6b919c95e4b9cbccd007213f6ddee9ce01cc5c883adc63212",
+    "git_blob_sha": "7c6924603d5a1f72013d6dec6b0761dcf87dfa32"
+  },
+  {
+    "path": "mailflow-cn/AGENTS.md",
+    "bytes": 2773,
+    "sha256": "c6079a6ac00bb3d67cb48c929f8e7bda7a1a253665e01ace54cae71d1bb18c6c",
+    "git_blob_sha": "fbe6c731855b54401335a976cb20e8d4951a3f23"
+  },
+  {
+    "path": "mailflow-cn/artifacts/evaluation.json",
+    "bytes": 7156,
+    "sha256": "bf323efbb05321b64b4f8a43495bcc8302a8ad739c2e3af3d2b6e3d6918ca0af",
+    "git_blob_sha": "1ac92701b219d582333e6b766938d3869993797a"
+  },
+  {
+    "path": "mailflow-cn/artifacts/EVALUATION.md",
+    "bytes": 2066,
+    "sha256": "0096498e5510d6420fec0678be520519654c210ad8118004aff4773add1071c5",
+    "git_blob_sha": "c96fc8c44fd923fe3b76e86c9899d013cbcbc1f8"
+  },
+  {
+    "path": "mailflow-cn/artifacts/pytest.xml",
+    "bytes": 3588,
+    "sha256": "65f66db32e01d666e7d3e927b7b2bd64a83939e6a574c4672d808a1924b8cba1",
+    "git_blob_sha": "07c449a76b681b5efb467e42e1112a1971b6c953"
+  },
+  {
+    "path": "mailflow-cn/artifacts/ui-checks.json",
+    "bytes": 411,
+    "sha256": "4653b5d91be4d3e5201c1a1f2e7f5af59ec1ba152888d7d551a5137281845c6f",
+    "git_blob_sha": "5ba6a4ba9571731eb38118f849c9c47b60326b42"
+  },
+  {
+    "path": "mailflow-cn/CLAUDE.md",
+    "bytes": 2526,
+    "sha256": "fe7ca7ffe0a50616d128fd02cbfb34aa799e969954213670c77bcc7c6b813d11",
+    "git_blob_sha": "52387e25ab37392b392256cbfd477f40e9c46570"
+  },
+  {
+    "path": "mailflow-cn/data/mailflow_evaluation.json",
+    "bytes": 6224,
+    "sha256": "a0702e471b92c934e3ed0c07cf2e56ac44151fb9927060529d34bad2b6325adb",
+    "git_blob_sha": "50043e10b931b8dea1dc4f93d6a6c3b1428e94a1"
+  },
+  {
+    "path": "mailflow-cn/data/mailflow_examples.json",
+    "bytes": 1155,
+    "sha256": "a33b0ae7f359b3e5b3b3101b02c9c269a8c3626f1aefab03eb0f9339903b91a3",
+    "git_blob_sha": "71912ac7c1ece79f6c65638f40d6508714807374"
+  },
+  {
+    "path": "mailflow-cn/Dockerfile",
+    "bytes": 236,
+    "sha256": "32e6e82446a4fc3f4a184b125ed2fdefe40590e1d53d4c1edb35342106506ad9",
+    "git_blob_sha": "34d9938a1fd36e3375737121599105ed3d7fbca0"
+  },
+  {
+    "path": "mailflow-cn/docs/ORIGIN.md",
+    "bytes": 597,
+    "sha256": "a2579c996573578067448115e195eef9de69664f270603e86f64868c4530f328",
+    "git_blob_sha": "c45a1110cf567d52ec5a70a75bf798004b200786"
+  },
+  {
+    "path": "mailflow-cn/docs/screenshots/mobile.png",
+    "bytes": 96585,
+    "sha256": "e77b177d54c83210ebd730787435f54e77319da3622b5084eae646a98c65340f",
+    "git_blob_sha": "e029510e52fc2ab4d161579c45a35bd95e034fcf"
+  },
+  {
+    "path": "mailflow-cn/docs/screenshots/reviewed.png",
+    "bytes": 127493,
+    "sha256": "53c7a5f72ba8a2c84247fb4dc870f3df6ad55c5157a9f75322ad22178815da94",
+    "git_blob_sha": "dd51ea50c5aff1e27ee891f628f6829cda0b3227"
+  },
+  {
+    "path": "mailflow-cn/docs/screenshots/workbench.png",
+    "bytes": 127215,
+    "sha256": "5e9fe4bb4045ea0c0b89fb10cfa3412056905bc079fa3af21bb14bd014b7dadf",
+    "git_blob_sha": "0f697fd26c5bd701d7545c0abbb01343aa58c481"
+  },
+  {
+    "path": "mailflow-cn/docs/upstream-workflows/claude-code-review.yml",
+    "bytes": 2958,
+    "sha256": "96e67741e5fcd1cfa1300bec5f1e2c16a7eb3d1243e0623dd91487b951145327",
+    "git_blob_sha": "1023be55728908ee57ab9639bdcf1cb522820a36"
+  },
+  {
+    "path": "mailflow-cn/docs/upstream-workflows/claude.yml",
+    "bytes": 2140,
+    "sha256": "f7cb327f6eb1182a7dde24d762fe920f8f95bda3f1545beaae8868f5621c3e51",
+    "git_blob_sha": "7ec7bc494d0d88477452cf3e512407309a468460"
+  },
+  {
+    "path": "mailflow-cn/docs/UPSTREAM_README.md",
+    "bytes": 7318,
+    "sha256": "57be5aa66a6e90dbbfc1ba790b68193016b48146bc9af86b416fbc782a1a8d95",
+    "git_blob_sha": "59e80d35dcd27f78477a58e69692496e2e69d67a"
+  },
+  {
+    "path": "mailflow-cn/docs/WALKTHROUGH.md",
+    "bytes": 1380,
+    "sha256": "ae2b599367d2c5354107b4ef9f42ad5fbedc634c8efa354287e5da5f2dc3cea3",
+    "git_blob_sha": "756de47999133e053627a50d3d730054b6ad364e"
+  },
+  {
+    "path": "mailflow-cn/langgraph.json",
+    "bytes": 688,
+    "sha256": "aa36325756735bdc244cb85f9c5c94d5358bd351129701bb15199f4fff91fd31",
+    "git_blob_sha": "1c24154394aefd5158d1ab266cefaadb25fe83a8"
+  },
+  {
+    "path": "mailflow-cn/LICENSE",
+    "bytes": 1093,
+    "sha256": "2950010d75712f45b995cdb36b919d1e4b4b2a38ee6f26bae4ca815a6b07737b",
+    "git_blob_sha": "32d7bd1cbd8de24b62db0bb9e4b22d03a48bd3ac"
+  },
+  {
+    "path": "mailflow-cn/portfolio_tests/conftest.py",
+    "bytes": 106,
+    "sha256": "8c75b617726556b77f7765ea7fb2d37a0203fddb8c336687122f0030b78f3bf9",
+    "git_blob_sha": "99f1af16dff381aa41ce0a94783ec9134ff43453"
+  },
+  {
+    "path": "mailflow-cn/portfolio_tests/test_workflow.py",
+    "bytes": 6812,
+    "sha256": "5fcb1f0ce7f1237d34b1ea7fde962bede4777b578dc314e4b6b8df8def552de7",
+    "git_blob_sha": "cd1af639eb91d8b3df8a1a0fa7bd0250d4efd1ac"
+  },
+  {
+    "path": "mailflow-cn/pyproject.toml",
+    "bytes": 1393,
+    "sha256": "048246389715826130d2e8f84f20e6169c7d68830aead0e9ff97b87b42ec4754",
+    "git_blob_sha": "a6fa8aa200a2eaa936874d1b0adb02aa59d17599"
+  },
+  {
+    "path": "mailflow-cn/README.md",
+    "bytes": 4589,
+    "sha256": "9f6b2cf83a1d9245610e03552af1668c2e35a48de9a488f2f9bfeef4e9978eee",
+    "git_blob_sha": "8c75a8cb4a036da5531f029c6fe5bf8aad070d09"
+  },
+  {
+    "path": "mailflow-cn/requirements-demo.txt",
+    "bytes": 190,
+    "sha256": "3d89d9ede79f5825813ea3d7b7974dc91926d9beda1b94369f5df75476791355",
+    "git_blob_sha": "4a794badf90ed76d2af1539f0c5f97452586a832"
+  },
+  {
+    "path": "mailflow-cn/run.py",
+    "bytes": 853,
+    "sha256": "2a7619fb4528f2dad5ecca363b80da4d5685ffd606b47d7327aa77383b60bac1",
+    "git_blob_sha": "1ca88061f7f838922558146d753efd4c2ba4be09"
+  },
+  {
+    "path": "mailflow-cn/scripts/evaluate.py",
+    "bytes": 3520,
+    "sha256": "178cdcb4af341f7ca14503a55434bccab4ff51049ecadd7feef4109fc297f656",
+    "git_blob_sha": "4e9446d4f7f9cb59b78f0370dc39bca5f790ad5f"
+  },
+  {
+    "path": "mailflow-cn/scripts/start.ps1",
+    "bytes": 190,
+    "sha256": "c993ca5881a7c897aafc8779595000339505115248c983bdb43051c38d96744c",
+    "git_blob_sha": "439116cafac784b380434964797e262471c5b5c0"
+  },
+  {
+    "path": "mailflow-cn/scripts/verify.ps1",
+    "bytes": 404,
+    "sha256": "42ef8cae0770f032e71ed031a759737596fc514702a731be298b03bd4e1ff776",
+    "git_blob_sha": "b2e5328d9209c9f1bee2cf9c1d639b16f6c06688"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/__init__.py",
+    "bytes": 17,
+    "sha256": "f5efcadb7997ba8b6ca6beff5736bac673ec74e183fd36e83c81accd3fe98e11",
+    "git_blob_sha": "683091b91d5d5e640ea9f5159b8857b38b1661fd"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/configuration.py",
+    "bytes": 860,
+    "sha256": "945f5b775a968edadc2a2045eb45feb7c06a7415658b2bcfa7b59e96efce3ceb",
+    "git_blob_sha": "81b6d01141af110ce8a74293183ac44ad647f44a"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/cron.py",
+    "bytes": 2423,
+    "sha256": "7daf215cf2fd8648915ac6db67cd33d5c598039eb125173900f6aac9656bcd64",
+    "git_blob_sha": "6340150f7836ed2bf700d6fcfe1a11aa42dcea5b"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/email_assistant.py",
+    "bytes": 5683,
+    "sha256": "49cc4eb92e9ccbb1ee8c28a42abd55245463a6bedde86c0b19dc8bba563da7f7",
+    "git_blob_sha": "e8bd2f163222016f009275ff15cb526ed574079f"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/email_assistant_hitl.py",
+    "bytes": 15769,
+    "sha256": "edb22d0982d1580e1fca314eb35a44160d0d1d06e5f66c6e2c281cd5662792e7",
+    "git_blob_sha": "1219abbc790fcd81a8e9266d9ea6ea61c45a66e1"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/email_assistant_hitl_memory.py",
+    "bytes": 22708,
+    "sha256": "3cb16f92b645151f3df7fe695d1b553fe759a3795e58008e1ce62189efc23829",
+    "git_blob_sha": "daf5198fb93c7e25da00697067a83cf87ecf78a1"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/email_assistant_hitl_memory_gmail.py",
+    "bytes": 23355,
+    "sha256": "893cb65d21073a89085a509a42d428159481a38f821fc7fe754134221df46076",
+    "git_blob_sha": "382bd721ef3c38104456edcabc37d44083f04e35"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/eval/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/eval/email_dataset.py",
+    "bytes": 18880,
+    "sha256": "8cf92c82531276cccfb7ef1c08c2f90566ebde6f9807fdfae567cfeef0c5331e",
+    "git_blob_sha": "8365e10e0966203127830e4f39f785a0e02df53b"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/eval/evaluate_triage.py",
+    "bytes": 3778,
+    "sha256": "2a68e7d1a10e6cbc4810c91a9f51cc87463f058624e2a8638371b1a1fd27bf36",
+    "git_blob_sha": "aedd3036e687edfca22d71c10df94b63d7261fc1"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/eval/prompts.py",
+    "bytes": 2749,
+    "sha256": "ce421e0220374ce8cd75efd856829b6a561fdce7e8e5ca2b143769d581d057f0",
+    "git_blob_sha": "212c82f91cf4ded97edbf925ac7018d7ed51b18a"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/eval/results/triage_comparison_20250411_151828.png",
+    "bytes": 25987,
+    "sha256": "f144c3dc9388b0d14ad0d74d8e515242c74030a704c26927ec8eff23079e66e3",
+    "git_blob_sha": "56d376e05ca77c5e174eed16e7eecebb9bf4b316"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/langgraph_101.py",
+    "bytes": 1897,
+    "sha256": "936d0db0f9d2371ba3e66d99e87ccb937a36f451a7840ab191a173b9e37b9a84",
+    "git_blob_sha": "4dc8ca3a0f6b0e30f7b3581a7fcb5364a129eb02"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/prompts.py",
+    "bytes": 11248,
+    "sha256": "85b5ea3789d54cfa57a14d1d55388efa64f5e307ddc4f6c2c6922904d70dc6b8",
+    "git_blob_sha": "9427f8889e7bc7b06a7241cd4d1c274f87a7bc05"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/schemas.py",
+    "bytes": 1371,
+    "sha256": "e97f66d4ebefbd539afd1d002d53c6619c41e1512a5e5e33c278a890cf8b9bea",
+    "git_blob_sha": "faf9b19b0527e9b492aaf98faa837949df60d518"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/__init__.py",
+    "bytes": 435,
+    "sha256": "80a8804c00477caa5597cf53f978836fd6412e3c6f4e2d0e585ee35eaac42025",
+    "git_blob_sha": "7e0cc77548dbcd4c52acd720c923a946676052b2"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/base.py",
+    "bytes": 2129,
+    "sha256": "1dfaa81ccf879f15ea87b757c1cbbdeb05e26ea269684ef37083400b95beb115",
+    "git_blob_sha": "ecbe4263e66caabf23c11432870456ba38f86c87"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/default/__init__.py",
+    "bytes": 654,
+    "sha256": "29dc33baa05b4dce621798048d080ba6173f7350bc631c9932e3a4e37670e3fe",
+    "git_blob_sha": "29ac34d7b8ab0ecd080231f08ca0fd0f8423d3fd"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/default/calendar_tools.py",
+    "bytes": 781,
+    "sha256": "2b1d0c3d24e4e02b29b54ace873ad1e0c6c20bbe22622579be89a0838595f287",
+    "git_blob_sha": "131a26393b454fc47e6c2b31f7e1e8d2f2f5a646"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/default/email_tools.py",
+    "bytes": 739,
+    "sha256": "c9191c7b0c9276bb649d9b85e717160ee112c941cf495e794f5ccaeb57cbe289",
+    "git_blob_sha": "110fe2cec6afc27b7e761cb99084f26dbc363d6e"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/default/prompt_templates.py",
+    "bytes": 2050,
+    "sha256": "a81e10da54890c36d2ce9a8a53c093f666a5b1b59ba65462b9a8baf3cd997419",
+    "git_blob_sha": "e9fb0dcfc52bd3a091e399f39d0ae2bb7a61e986"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/__init__.py",
+    "bytes": 428,
+    "sha256": "9d14257fb7a5c08e1904f819961343c7a742f5355b662a759d74b3a073942585",
+    "git_blob_sha": "5734b04d1765ee59a845b70ac34a4bdfce006175"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/gmail_tools.py",
+    "bytes": 38841,
+    "sha256": "b1601125d5e53b2f6c3587f4b3e59aa8606bd09b1c9ae4a88871f3d72295b96a",
+    "git_blob_sha": "195b4a51223ffee17aa3c9616102ea8a92348964"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/prompt_templates.py",
+    "bytes": 1482,
+    "sha256": "0b97bbf450f9a4b0208da93a56b04cd31b8954e2af4f9b3308c9062451679212",
+    "git_blob_sha": "4c6a024ca2372c3ee2a6cc7a4738569f5b487fbd"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/README.md",
+    "bytes": 12195,
+    "sha256": "650e7644c74f30ea3bee7c0b1e6f5a3f2703394b7009ec7de8aa8ccc74d4cd07",
+    "git_blob_sha": "8f90cb114f34206236807ce6422e1400ae97b44a"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/run_ingest.py",
+    "bytes": 12024,
+    "sha256": "f45e81238fa505d72c8282b1517c4effc19bda37b9bfe03379368d9d7c7b8339",
+    "git_blob_sha": "6a20aaedbd175dd3291f8334c9f6e37e989b157e"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/setup_cron.py",
+    "bytes": 3168,
+    "sha256": "5edf1c2addd9f41650366297ee54e54db506db746db551fbd8c0f614f860e19b",
+    "git_blob_sha": "cf40085f0022c7ca1a344a753635fd57a62991df"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/tools/gmail/setup_gmail.py",
+    "bytes": 3059,
+    "sha256": "f4022f21b502beabe2562a138dd7401e2da2b20fefc42efe67e717273729e376",
+    "git_blob_sha": "5361ef4d62b1558463a6a6c9f4cd234c6aabcb62"
+  },
+  {
+    "path": "mailflow-cn/src/email_assistant/utils.py",
+    "bytes": 9094,
+    "sha256": "1691bcf36638d75060d6d8c21b20fc8e60b3fa37978fbdd149d2fd59ab49174d",
+    "git_blob_sha": "8d0d12d202ec64ec55e42f4ff4dcc4ae6ce53ea2"
+  },
+  {
+    "path": "mailflow-cn/src/mailflow_cn/__init__.py",
+    "bytes": 86,
+    "sha256": "dc09f965ba97f10adf22f8d7313094012b6f403682d0e38cfb5c6f911d237e00",
+    "git_blob_sha": "fc636deec0dd05577209eddcd7b7f5b92052b8c5"
+  },
+  {
+    "path": "mailflow-cn/src/mailflow_cn/api.py",
+    "bytes": 3804,
+    "sha256": "9690b56e2dfd69570d84113128f92bfccab0f1ee5827580db04d60f0a80a1395",
+    "git_blob_sha": "cbb60619c20a4ea03a66cbe66f2b35b8af414901"
+  },
+  {
+    "path": "mailflow-cn/src/mailflow_cn/flow.py",
+    "bytes": 11901,
+    "sha256": "ee98ee3ae99b3fcc02c0c8ce66504e9560011b51c7390b50a4b27f900896cc7a",
+    "git_blob_sha": "8ffba4acefded31cf21640bdc9f874e5aa4c9d12"
+  },
+  {
+    "path": "mailflow-cn/src/mailflow_cn/storage.py",
+    "bytes": 4524,
+    "sha256": "ab6083c9eecd3391d3cf84ea3a4f75f1974afa670172b70f1b92c068b61279b2",
+    "git_blob_sha": "f1272c4576b035deb10153d49cddbd4467c8da15"
+  },
+  {
+    "path": "mailflow-cn/tests/conftest.py",
+    "bytes": 653,
+    "sha256": "533bebcdac3b071714ccacc82d8dcca2c21b3c67786109be1fcf407bdd05e463",
+    "git_blob_sha": "5712cfb6ea8fcd82bbe18c432e725ef3a77919b5"
+  },
+  {
+    "path": "mailflow-cn/tests/run_all_tests.py",
+    "bytes": 4387,
+    "sha256": "91695a41289a7b024829b722a3c82dddef5074d3de97c47b0d6add2a9eb18186",
+    "git_blob_sha": "837174c7e18473afc0a88fed46d710f8c8bcd1f9"
+  },
+  {
+    "path": "mailflow-cn/tests/test_notebooks.py",
+    "bytes": 2365,
+    "sha256": "d5a9394cbac9c34b755b0808846c87ccdce92e90b7606ac706a52d0c9b4db6e7",
+    "git_blob_sha": "7eeb8fc9027046a9f972f5734b1cd88ce5cfb3ee"
+  },
+  {
+    "path": "mailflow-cn/tests/test_response.py",
+    "bytes": 9780,
+    "sha256": "6a352c59943f2856fd5408c1f132e9d4179341791b0a1da4977ac176f5871849",
+    "git_blob_sha": "e8631aca3217d75dfb0f8ee3879b5056e4e1ca55"
+  },
+  {
+    "path": "mailflow-cn/web/app.js",
+    "bytes": 6191,
+    "sha256": "595f7b59bf4ae2502f0c197cfa8f5128c08d209269645e38010070e04686d0e4",
+    "git_blob_sha": "f03939516959551ee4dd5dd5dc296c77473376b5"
+  },
+  {
+    "path": "mailflow-cn/web/index.html",
+    "bytes": 3086,
+    "sha256": "d5fe48462e0a34b1a829bfcfce7c704a7c18c28647b1614d2479a1c4de7ba0f6",
+    "git_blob_sha": "1f6f12edfb627e77fb4311f27ea37271dc9ddbc2"
+  },
+  {
+    "path": "mailflow-cn/web/style.css",
+    "bytes": 8358,
+    "sha256": "12f2e6ba06c0520255f8b1a925e0863309708a5e8869ca19b264bec06e9c3e29",
+    "git_blob_sha": "d6050e2e6d379842bdf478ef68bb972ce223b030"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3175,
+    "sha256": "18cc4096e3c538ce1abed22493b8946bf98398f73c02b6b2d91005454fa9dee8",
+    "git_blob_sha": "732bfb43a355ae2451213d2230e866e550bc4803"
+  },
+  {
+    "path": "REPOSITORY_MIGRATION.md",
+    "bytes": 482,
+    "sha256": "dbceae7833e9ab2ab7df84b90c097f2701fd98e47cb62134ac1eef35a1bd440b",
+    "git_blob_sha": "6cb32a3a25d0bc565e2482b944e42d3601823c8f"
+  },
+  {
+    "path": "scripts/README.md",
+    "bytes": 565,
+    "sha256": "257eb79e0143bf743f5a81ca5c9e2af57b4785337ae6b43ef9c029cc77b34b1b",
+    "git_blob_sha": "8bf8007048cb4c0c199d2aa163dfe3410a8d057a"
+  },
+  {
+    "path": "scripts/requirements-ui.txt",
+    "bytes": 20,
+    "sha256": "e63b2499cc12e2a503e0c4b2d8e45ba174eee2f13438785677dbdaf6639464f3",
+    "git_blob_sha": "4920d27efe3984f31ff9fb23682d3daf89667b47"
+  },
+  {
+    "path": "scripts/verify_ui.py",
+    "bytes": 6961,
+    "sha256": "e5464249aeae4020c4c5fd9e1fb01a6dcd0c26977e65ed0230fbe8b9615d077b",
+    "git_blob_sha": "7fe0a3bd4d690e75c5eb3f9cea7e27c837393f54"
+  },
+  {
+    "path": "supportflow-cn/.dockerignore",
+    "bytes": 52,
+    "sha256": "bd56abd1280bacde3fe9b012cc02f4e18c8815c627acfd793bc61cfa89a49409",
+    "git_blob_sha": "ad8949c985e954746ee117605af397e8f054681d"
+  },
+  {
+    "path": "supportflow-cn/.env.example",
+    "bytes": 476,
+    "sha256": "f682772928f4b3ab2dbea8edc8f8613d0e2f473c0035204f8801a3a691197c76",
+    "git_blob_sha": "a27fe4170820260c5ca97d6ce32c9ba08e506fe1"
+  },
+  {
+    "path": "supportflow-cn/.gitignore",
+    "bytes": 281,
+    "sha256": "a2f3f316731472164fb6a91ce8daf445be439d5596059e0728f96530f5012026",
+    "git_blob_sha": "74a8ee504a5eb4b8e87b54d180271ed01830fe25"
+  },
+  {
+    "path": "supportflow-cn/artifacts/evaluation.json",
+    "bytes": 4012,
+    "sha256": "9ab4ddb9828fee3fe4619c5291ade9d2acab20946d8573b3bd974eb5422bc0bc",
+    "git_blob_sha": "8e790c38ab4079ea423a988ef3b3ea55c060760a"
+  },
+  {
+    "path": "supportflow-cn/artifacts/EVALUATION.md",
+    "bytes": 1293,
+    "sha256": "2c1f104aa09ad225f299919beb08b8f57afabfd13af46f4d12fb443f8b2d623b",
+    "git_blob_sha": "f85ef6c6d41298b0b1b2c81c2bb2a0667b45cffb"
+  },
+  {
+    "path": "supportflow-cn/artifacts/pytest.xml",
+    "bytes": 5158,
+    "sha256": "ec8e996b57171050751273d9725507251911fb0631de5844029e198e2ffe4148",
+    "git_blob_sha": "e9344f6ac2b74a97e2acd75af48a813b2e392c54"
+  },
+  {
+    "path": "supportflow-cn/artifacts/ui-checks.json",
+    "bytes": 467,
+    "sha256": "ee28fdc27c9edd4872f83e1220c2dc00478c9fa2921fc987726164f6dd3069d3",
+    "git_blob_sha": "2bfbae224af90bcacf099fefc95b6c73f0e28a8c"
+  },
+  {
+    "path": "supportflow-cn/data/cn/policies.md",
+    "bytes": 1017,
+    "sha256": "4a975a428b8485ae206cf78be32512bfe6bc7094cf2ed80f86fea5fa99a90dee",
+    "git_blob_sha": "8ff4d7ead663cfac8384eafc1ca39cc03f6943ea"
+  },
+  {
+    "path": "supportflow-cn/data/cn/store.json",
+    "bytes": 1193,
+    "sha256": "60ebdc237effcd533edc6b615d5104022095a4d59149df8cd4b817c9814246a0",
+    "git_blob_sha": "4913f788ffc0b955d55b652dfc16feba860d203b"
+  },
+  {
+    "path": "supportflow-cn/data/policies.md",
+    "bytes": 858,
+    "sha256": "8b830319b9ab4bfd518a7893d1c6a50dc4d3a2483a82798d71c5db78c3596083",
+    "git_blob_sha": "443c3deb2b4ee1faf752c640bc239d65a7ad2a6c"
+  },
+  {
+    "path": "supportflow-cn/data/scenarios.json",
+    "bytes": 2378,
+    "sha256": "0aebf9fadf0c6b45c4e76c8c88e91e986696842c8f805175dbc94554b9ece5e7",
+    "git_blob_sha": "4adfa602a973308b24c8f74c1b44184bb090eee0"
+  },
+  {
+    "path": "supportflow-cn/data/store.json",
+    "bytes": 1460,
+    "sha256": "d6542d32c49075762109c895c93991c125bfdf5c2f70872f94eb2bdac7acbbc1",
+    "git_blob_sha": "cb10f120e2bc24dae27bac239742d2a13d122025"
+  },
+  {
+    "path": "supportflow-cn/Dockerfile",
+    "bytes": 236,
+    "sha256": "5643052220e866020ab9fdcecb3064d4ca024091d2af1b5e45ba93567ffb4215",
+    "git_blob_sha": "74c95ac97b20a334829a7e9e5f50fd0b811210a4"
+  },
+  {
+    "path": "supportflow-cn/docs/ORIGIN.md",
+    "bytes": 605,
+    "sha256": "c37094e7bc7f9f2333cbf11e9233a4698b2176b84fea269a7e31e7d5d4ea3b18",
+    "git_blob_sha": "b2b3736f5db3888614be1a9ce2c6ce7c311e9eb5"
+  },
+  {
+    "path": "supportflow-cn/docs/screenshots/approval.png",
+    "bytes": 118407,
+    "sha256": "f227dc755e97c04cf710f261f053260ae849880e2422e49555377d16494cdaae",
+    "git_blob_sha": "c393ed38d99a58e04f3bf5ba55acc8505bb5be47"
+  },
+  {
+    "path": "supportflow-cn/docs/screenshots/mobile.png",
+    "bytes": 84778,
+    "sha256": "63cf33ee6d6ed04fd3686959260cdd3bd21e21b56bd559a629c37da63e3bbbed",
+    "git_blob_sha": "ad9a47094efa4af19c6ec4500560cf8ec1dc94fc"
+  },
+  {
+    "path": "supportflow-cn/docs/screenshots/workbench.png",
+    "bytes": 120888,
+    "sha256": "16ff57d0f98d6e17934497ed583a40ea24b94789a005b48e2f96f28bba06cb18",
+    "git_blob_sha": "b12e23a504196d8d8b7b8f998bc018029baa8e47"
+  },
+  {
+    "path": "supportflow-cn/docs/upstream-workflows/ci.yml",
+    "bytes": 678,
+    "sha256": "21f73fbfbd5550afd6af5eb734c7fd7f4f9532976371cd71598fe1e8797ac342",
+    "git_blob_sha": "f07704a4e1c5b86bfa40108878db8a454bf928c3"
+  },
+  {
+    "path": "supportflow-cn/docs/UPSTREAM_README.md",
+    "bytes": 8329,
+    "sha256": "3d4e7bc66f3eacb62f179239f18f3e785f411342ae089bba5a0104d38e413d29",
+    "git_blob_sha": "00f27772be6786b50b4fb5af2371e1956bb07cff"
+  },
+  {
+    "path": "supportflow-cn/docs/WALKTHROUGH.md",
+    "bytes": 1375,
+    "sha256": "10bd995470997e01267aaaf927a494022685cbcd346741edbcf9b4005fd361d2",
+    "git_blob_sha": "3613192436f274428329cdede01d2689343f2585"
+  },
+  {
+    "path": "supportflow-cn/examples/scenarios.txt",
+    "bytes": 1138,
+    "sha256": "75f28d624f563bfe4af9d62d7b08e3d579310f27e1268d054c82c4c06f3d8f29",
+    "git_blob_sha": "7798eef86fe68a7d6e58efc02afd63cb5a6ff14f"
+  },
+  {
+    "path": "supportflow-cn/LICENSE",
+    "bytes": 1092,
+    "sha256": "98760287d68e433e870e5dc8fbfc41fe5a314633c791e3e967fce6656598918d",
+    "git_blob_sha": "16dd7278789ac79063dc869b1b6180865351fa5b"
+  },
+  {
+    "path": "supportflow-cn/pyproject.toml",
+    "bytes": 976,
+    "sha256": "0a197565ffeef2566f940fc3405b856789ec7ac74638de39afcc901d4ea21739",
+    "git_blob_sha": "2de42135be55eef11d2554347a263d0fe665efbb"
+  },
+  {
+    "path": "supportflow-cn/README.md",
+    "bytes": 4952,
+    "sha256": "0c8cee5d26c69c430c67ff8eab0bcf6af42d1466bc54860eef8b8585e5de112d",
+    "git_blob_sha": "3a85d7b5c18c9c6e7aea9ef41fb5600b94cef60a"
+  },
+  {
+    "path": "supportflow-cn/requirements-demo.txt",
+    "bytes": 190,
+    "sha256": "3d89d9ede79f5825813ea3d7b7974dc91926d9beda1b94369f5df75476791355",
+    "git_blob_sha": "4a794badf90ed76d2af1539f0c5f97452586a832"
+  },
+  {
+    "path": "supportflow-cn/run.py",
+    "bytes": 865,
+    "sha256": "115e4ae9e3ed751d60f8c7018bd55bd7298e855eaedf4bc44aaaf15436db2947",
+    "git_blob_sha": "566cf01fbb2caf6e0c12777e5597bdac405fcf19"
+  },
+  {
+    "path": "supportflow-cn/scripts/evaluate.py",
+    "bytes": 5350,
+    "sha256": "f344ca800be7f3bfec1c1fe16e8ca7ebf5b1b7daf6497618e50fbbdd34f986f2",
+    "git_blob_sha": "6801acf821d8666d97112f39d995b3983232ad09"
+  },
+  {
+    "path": "supportflow-cn/scripts/start.ps1",
+    "bytes": 190,
+    "sha256": "c993ca5881a7c897aafc8779595000339505115248c983bdb43051c38d96744c",
+    "git_blob_sha": "439116cafac784b380434964797e262471c5b5c0"
+  },
+  {
+    "path": "supportflow-cn/scripts/verify.ps1",
+    "bytes": 397,
+    "sha256": "d4ddfda066f8ed91be0c2375260983f478d8621ad0acb0e3338eaa7f0cd4216d",
+    "git_blob_sha": "5f2febdd579e9bf24f8bd5bea030700b87c86f48"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/__init__.py",
+    "bytes": 184,
+    "sha256": "62dc6ed271158dbc218e2b5300ae2388c1b873059e7d6d78120cfc5addaea6bf",
+    "git_blob_sha": "b9ab08475bffb0b9063c8a0d9ac49826a13acc6e"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/__main__.py",
+    "bytes": 1652,
+    "sha256": "c8e7743388788a53159f0325e7510b7fd4f8fd94ecf546e961b41e751e4eb878",
+    "git_blob_sha": "e3a9b4b4d267abdc9588e67030b5758e30f74e9c"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/api.py",
+    "bytes": 3112,
+    "sha256": "3084c2c69417d074de2ec7661fc03fb7437be2dac5a64d1fd228a2ef3afc51de",
+    "git_blob_sha": "6ddbbe4616bcd28371c01039f9fc32b99c4ac982"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/chinese.py",
+    "bytes": 5854,
+    "sha256": "9819161ab6eb52b6353a3bcf6b96ee10a40c7d5a645273420549a1db304949e6",
+    "git_blob_sha": "33a6636651f4599f45b594b2a0063ce30c580f61"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/console.py",
+    "bytes": 3628,
+    "sha256": "9ea7d5605708e06f716ec8b99799941136b340c0e37f32d98d02736e1a00413a",
+    "git_blob_sha": "3e9643f184f9a57780788e9655a92f38b34305c6"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/evaluate.py",
+    "bytes": 2058,
+    "sha256": "ec02071ef4bc7f7d3888e4f3304b3ac771ebca64c11e7e39e5c6d2688515188c",
+    "git_blob_sha": "9b52c9262df1c02d04ec87ff3cb4908cd639bbbb"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/graph.py",
+    "bytes": 2880,
+    "sha256": "53d64c467784c2c4f91c6c90dc73bfa982c8aa2962d36aecd9ea6c955363cddf",
+    "git_blob_sha": "0d7e67fa8d1ef3c6153379902866f6b8af66a21e"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/models.py",
+    "bytes": 1535,
+    "sha256": "6f1cb880f0dd092f3bd8a4583fac11d04eb0464ee1c34f5d3bbb4a159e784c9b",
+    "git_blob_sha": "b430cc1d6d479cf0d382ccdd3cd6a8efd8f75fc2"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/offline_model.py",
+    "bytes": 7394,
+    "sha256": "8567856b7e93efc31509e718c2e6b4d1596f6c3db5627e8ca8cdaecb51cd789d",
+    "git_blob_sha": "76d6955feeb203baf5a3aa0b924ce5454fc6d929"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/persistence.py",
+    "bytes": 3619,
+    "sha256": "071daf7408c051a256b078f0607c835e971ea7c36adff38fbf9a08bf98e20e49",
+    "git_blob_sha": "31e0b86e87fd5fb6921d223eb2b316a15ad5209d"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/policies_kb.py",
+    "bytes": 1657,
+    "sha256": "fbaf71bf5d2d9a3dff2abccc56bd660a15cc82ebd4fe12e20b4a72d0ed89f8ee",
+    "git_blob_sha": "85239105e7b7b007173cff01f7b01c659156a548"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/policy.py",
+    "bytes": 2042,
+    "sha256": "f772a99223cede431341b4176812baa371fbdc095ed80b70f17ad5214bc112c7",
+    "git_blob_sha": "238fc8705eb070648dc23cd58713c645d73ed411"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/service.py",
+    "bytes": 9138,
+    "sha256": "9e14f8a5ed8348218b8018cd7c07f99ffcf428b65c1667542017f7bacd297285",
+    "git_blob_sha": "030576d79f116a7fa33c811bd906982de02b4dd6"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/store.py",
+    "bytes": 3519,
+    "sha256": "a05a82855f4d0f26e2a20391a1f9d0948ebfb1674cc40a6e051ff144f7706f5c",
+    "git_blob_sha": "430ad578e432dba683455fc4ede6bf3ebfd1005d"
+  },
+  {
+    "path": "supportflow-cn/src/support_agent/tools.py",
+    "bytes": 8067,
+    "sha256": "efb7841a4465413bda892575192ff04d4e9abd4ef64664bf328f613c1181a13a",
+    "git_blob_sha": "199511309e5b28e97cce6d4613b21ef853564966"
+  },
+  {
+    "path": "supportflow-cn/tests/conftest.py",
+    "bytes": 1694,
+    "sha256": "6b52b77cb77bcd9a4aeaf55a647e034712e38cd4f83314362e1b4f02205cf08d",
+    "git_blob_sha": "708b62e76ed79e37c3d8fd417a458dedf485ba40"
+  },
+  {
+    "path": "supportflow-cn/tests/test_api.py",
+    "bytes": 1891,
+    "sha256": "d20dd38dffd54872c9c4455cc2e5a5668d958364959fcb13784e5e3cd2162832",
+    "git_blob_sha": "b063fd3841adfad871b86fc2aeef72f5e3b2e7d7"
+  },
+  {
+    "path": "supportflow-cn/tests/test_chinese.py",
+    "bytes": 4616,
+    "sha256": "674c9f5f28210a86f1900605d98c4eaa0deff4458d13b003113855cd06d99e38",
+    "git_blob_sha": "d7a6c2780f97c9136f79e7fc57cc6e4c52750ec4"
+  },
+  {
+    "path": "supportflow-cn/tests/test_conversations.py",
+    "bytes": 4707,
+    "sha256": "8fa7d2f8338c141388c38bfd2721563b28931599eff9aba240dcd82a1d08d1da",
+    "git_blob_sha": "2114062c7a9ed0bca53af2f4892ba0f31689b0a2"
+  },
+  {
+    "path": "supportflow-cn/tests/test_policy_and_tools.py",
+    "bytes": 1977,
+    "sha256": "6d6f9ebce23fdf6721baae7fd9a2b172da3e0bc170379eca3a57672384b3776f",
+    "git_blob_sha": "3b3fd74ef71f671df4ae3557b77dd0bc310877a2"
+  },
+  {
+    "path": "supportflow-cn/web/app.js",
+    "bytes": 4788,
+    "sha256": "2b418a9096c919274a7aee5585a92f66f787d2190002b7db40c53417d3a67f18",
+    "git_blob_sha": "f15de8f0c815f1952d9fc7b202797123b15b5acf"
+  },
+  {
+    "path": "supportflow-cn/web/index.html",
+    "bytes": 4696,
+    "sha256": "238c58928ec254bceee90de5b38605e50961bec0e68f54615240cdc1518ac179",
+    "git_blob_sha": "fff65f59581b13345012f4208ae451ee37a50bf9"
+  },
+  {
+    "path": "supportflow-cn/web/style.css",
+    "bytes": 8358,
+    "sha256": "12f2e6ba06c0520255f8b1a925e0863309708a5e8869ca19b264bec06e9c3e29",
+    "git_blob_sha": "d6050e2e6d379842bdf478ef68bb972ce223b030"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 646,
+    "sha256": "fec5800bff80e2604251bf7f9c796cfa099812a09288c5cc9e3dc88a092acfac",
+    "git_blob_sha": "11dfe802175e5cd21b5e63051a7250cdd4e2878f"
+  }
+]

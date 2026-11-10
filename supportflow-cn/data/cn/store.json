@@ -1,0 +1,12 @@
+{
+  "demo_today": "2026-11-10",
+  "customers": {"C100":{"name":"林同学","email":"lin@example.com"},"C200":{"name":"陈同学","email":"chen@example.com"}},
+  "orders": [
+    {"id":"1001","customer_id":"C100","item":"无线降噪耳机","total":"499.00","currency":"CNY","status":"delivered","ordered":"2026-11-01","delivered":"2026-11-05","tracking":"DEMO-SF1001"},
+    {"id":"1002","customer_id":"C100","item":"机械键盘","total":"299.00","currency":"CNY","status":"shipped","ordered":"2026-11-08","tracking":"DEMO-YT1002","eta":"2026-11-12"},
+    {"id":"1003","customer_id":"C100","item":"桌面支架","total":"89.00","currency":"CNY","status":"delivered","ordered":"2026-08-01","delivered":"2026-08-05"},
+    {"id":"1004","customer_id":"C100","item":"便携充电器","total":"129.00","currency":"CNY","status":"processing","ordered":"2026-11-10"},
+    {"id":"1005","customer_id":"C100","item":"收纳袋","total":"19.00","currency":"CNY","status":"delivered","ordered":"2026-11-02","delivered":"2026-11-06"},
+    {"id":"2001","customer_id":"C200","item":"人体工学椅","total":"899.00","currency":"CNY","status":"delivered","ordered":"2026-11-01","delivered":"2026-11-06"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-11-10T09:24:29.999865+00:00",
+  "python": "3.12.6",
+  "mode": "offline",
+  "tests": {
+    "mailflow-cn": {
+      "tests": 22,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    "supportflow-cn": {
+      "tests": 40,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    }
+  },
+  "ui": "desktop + mobile Edge, fresh synthetic state, no page errors",
+  "real_model_verified": false,
+  "hosting": "GitHub source repository; local Python services, no public runtime provisioned",
+  "lint": "E,F,I on new application modules, tests and launchers; passed"
+}
